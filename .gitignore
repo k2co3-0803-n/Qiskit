@@ -4,3 +4,5 @@
 # except for .ipynb and .gitignore
 !*.ipynb
 !.gitignore
+!*.py
+!README.md
